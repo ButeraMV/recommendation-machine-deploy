@@ -2,6 +2,13 @@ html, body {
   background: black;
   color: white;
   text-align: center;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.site-title {
+  font-family: 'Share Tech Mono', monospace;
+  text-align: left;
+  padding-left: 5%;
 }
 
 .splash-screen {

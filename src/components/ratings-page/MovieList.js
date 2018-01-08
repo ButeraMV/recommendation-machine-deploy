@@ -8,23 +8,23 @@ class MovieList extends Component {
       <table className='movie-list'>
         <tbody>
         <tr>
-          <td><Movie title='movie 1' /></td>
+          <td><Movie title='Toy Story' /></td>
           <td><Ratings /></td>
         </tr>
         <tr>
-          <td><Movie title='movie 2' /></td>
+          <td><Movie title='Titanic' /></td>
           <td><Ratings /></td>
         </tr>
         <tr>
-          <td><Movie title='movie 3' /></td>
+          <td><Movie title='Forrest Gump' /></td>
           <td><Ratings /></td>
         </tr>
         <tr>
-          <td><Movie title='movie 4' /></td>
+          <td><Movie title='Star Wars: A New Hope' /></td>
           <td><Ratings /></td>
         </tr>
         <tr>
-          <td><Movie title='movie 5' /></td>
+          <td><Movie title='The Princess Bride' /></td>
           <td><Ratings /></td>
         </tr>
         </tbody>
