@@ -1,0 +1,24 @@
+html, body {
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+.splash-screen {
+  width: 70%;
+  margin: 10% auto 0 auto;
+}
+
+.recommendation-page {
+  width: 70%;
+  margin: 10% auto 0 auto;
+}
+
+.ratings-page {
+  margin-top: 10%;
+}
+
+.movie-list {
+  margin: 0 auto
+}
+
